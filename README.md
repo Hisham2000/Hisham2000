@@ -20,3 +20,7 @@ Welcome to my GitHub profile! Here you can find some of the projects I've been w
 
 ## 🌟 Featured Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hisham2000&repo=my-awesome-project)](https://github.com/Hisham2000/my-awesome-project)
+
+## 🏆 GitHub Badges
+![GitHub followers](https://img.shields.io/github/followers/Hisham2000?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Hisham2000?style=social)
