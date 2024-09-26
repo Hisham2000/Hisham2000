@@ -62,6 +62,7 @@ Here’s a quick overview of how I typically approach a project from scratch:
 
 ```markdown
    📋 Requirements --> 🖼️ Architecture --> 🔨 Implementation --> 🔄 Testing --> 🚀 Deployment
+```
 
 ## 💼 Work Experience
 - **NTG Clarity**: Software Engineer
