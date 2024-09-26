@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Hisham 👋
 
-<!--
-**Hisham2000/Hisham2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here you can find some of the projects I've been working on. I love to code and contribute to open-source projects.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 I’m currently learning: **Spring Boot, Kubernetes, and Flutter**
+- 💼 I'm working at: **Mint-Ops**
+- 💬 Ask me about: **Java, Spring Boot, Laravel, Vue.js, Docker, Microservices**
+- 📫 How to reach me: **[hisham@example.com](mailto:hisham@example.com)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages**: Java, PHP, Dart
+- **Frameworks**: Spring Boot, NestJS, Laravel
+- **Tools**: Docker, Kubernetes, GitLab, Keycloak
+
+## 📈 GitHub Stats
+![Hisham's GitHub stats](https://github-readme-stats.vercel.app/api?username=hishamanwar&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=hishamanwar)
+
+## 🌟 Featured Repositories
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hishamanwar&repo=my-awesome-project)](https://github.com/hishamanwar/my-awesome-project)
