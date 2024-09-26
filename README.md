@@ -43,7 +43,7 @@ I’m a passionate software engineer with 3 years of experience in backend devel
 ### [Tanfeeth Middleware]
 - Handles integration and connection management, including logging and request handling.
 
-##[NTG Apps]
+### [NTG Apps]
 - Low code platform applications supporting in developing applications faster with ease of use. 
 
 ### [Boiter - Hybrid E-commerce Platform]
