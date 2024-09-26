@@ -13,10 +13,10 @@ Welcome to my GitHub profile! Here you can find some of the projects I've been w
 - **Tools**: Docker, Kubernetes, GitLab, Keycloak
 
 ## 📈 GitHub Stats
-![Hisham's GitHub stats](https://github-readme-stats.vercel.app/api?username=hishamanwar&show_icons=true&theme=radical)
+![Hisham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hisham2000&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=hishamanwar)
+![trophy](https://github-profile-trophy.vercel.app/?username=Hisham2000)
 
 ## 🌟 Featured Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hishamanwar&repo=my-awesome-project)](https://github.com/hishamanwar/my-awesome-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hisham2000&repo=my-awesome-project)](https://github.com/Hisham2000/my-awesome-project)
