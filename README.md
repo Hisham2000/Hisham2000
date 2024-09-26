@@ -7,6 +7,7 @@ I’m a passionate software engineer with 3 years of experience in backend devel
 - 🌱 I’m currently exploring: **Microservices, Kubernetes, AWS, and Advanced Spring Boot**
 - 💼 I'm currently working as a Software Engineer at NTG Clarity, focusing on web development with **Angular** and **Spring Boot**
 - 💬 Ask me about: **Spring Boot, PHP, Laravel, Angular, Microservices, and Docker, React, System Design**
+- 👨‍💻 Fun fact: I'm passionate about open-source and love working on new tech ideas in my free time.
 
 ## 🛠 Skills
 ### Frontend
@@ -55,6 +56,8 @@ I’m a passionate software engineer with 3 years of experience in backend devel
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Hisham2000)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hisham2000&color=blue)
 
 ## 📫 Connect with Me
 - [GitHub](https://github.com/Hisham2000)
