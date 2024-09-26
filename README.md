@@ -4,9 +4,8 @@ Welcome to my GitHub profile! Here you can find some of the projects I've been w
 
 ## 🚀 About Me
 - 🌱 I’m currently learning: **Spring Boot, Kubernetes, and Flutter**
-- 💼 I'm working at: **Mint-Ops**
 - 💬 Ask me about: **Java, Spring Boot, Laravel, Vue.js, Docker, Microservices**
-- 📫 How to reach me: **[hisham@example.com](mailto:hisham@example.com)**
+- 📫 How to reach me: **[hishamanwar72@gmail.com](mailto:hishamanwar72@gmail.com)**
 
 ## 🛠 Tech Stack
 - **Languages**: Java, PHP, Dart
