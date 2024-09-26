@@ -1,7 +1,7 @@
 # Hi there, I'm Hisham Anwar 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
 </div>
 
 I’m a passionate software engineer with 3 years of experience in backend development. I enjoy solving problems and building efficient, scalable applications. Here's a bit more about me!
@@ -46,6 +46,22 @@ I’m a passionate software engineer with 3 years of experience in backend devel
   <img src="https://img.shields.io/badge/Keycloak-007396?style=for-the-badge&logo=keycloak&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
 </p>
+
+
+## 🧠 Software Engineering Concepts
+
+- **Design Patterns**: I frequently apply SOLID principles, Factory patterns, and Singleton in my designs.
+- **System Design**: I focus on creating efficient, scalable systems by leveraging tools like **Kafka**, **Redis**, and **Docker**.
+- **Database Design**: Experienced in database normalization, schema design, and query optimization for high-performance systems.
+
+---
+
+### 🚀 Project Design Philosophy
+
+Here’s a quick overview of how I typically approach a project from scratch:
+
+```markdown
+   📋 Requirements --> 🖼️ Architecture --> 🔨 Implementation --> 🔄 Testing --> 🚀 Deployment
 
 ## 💼 Work Experience
 - **NTG Clarity**: Software Engineer
