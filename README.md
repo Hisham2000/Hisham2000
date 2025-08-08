@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
 </div>
 
-I’m a passionate software engineer with 3 years of experience in backend development. I enjoy solving problems and building efficient, scalable applications. Here's a bit more about me!
+I’m a passionate software engineer with 4 years of experience in backend development. I enjoy solving problems and building efficient, scalable applications. Here's a bit more about me!
 
 ## 🚀 About Me
 - 📫 Contact me: [hishamanwar72@gmail.com](mailto:hishamanwar72@gmail.com)
